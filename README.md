@@ -1,3 +1,3 @@
-# [API NodeJS + Express + Mongo] Registration, authentication and authorization
+# [API NodeJS + Express + Mongo] Register, authentication and authorization
 
 Structure and registration
